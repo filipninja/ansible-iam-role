@@ -1,0 +1,4 @@
+---
+- hosts: localhost
+  roles:
+    - my-iam_role
